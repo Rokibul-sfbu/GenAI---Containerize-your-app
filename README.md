@@ -5,14 +5,13 @@ Dockerized Generative AI Application
 This project demonstrates how to containerize a Python-based Generative AI (GenAI) application using Docker. The application leverages technologies like LangChain, Streamlit, Neo4j, and Ollama to allow querying of PDF files with a natural language interface.
 
 Table of Contents
-Introduction
-Prerequisites
-Installation Guide
-Dockerizing the GenAI Application
-Running the Application
-Setting Up Neo4j and LLM Service
-Next Steps
-Troubleshooting
+  * Introduction
+  * Prerequisites
+  * Installation Guide
+  * Dockerizing the GenAI Application
+  * Running the Application
+  * Setting Up Neo4j and LLM Service
+
 Introduction
 This project provides an easy-to-follow guide for containerizing and deploying a Python-based Generative AI application. The objective is to demonstrate the use of Docker for consistent and portable deployment across different environments, enhancing the accessibility and ease of deployment of AI applications.
 
